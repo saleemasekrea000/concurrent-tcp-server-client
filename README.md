@@ -2,7 +2,7 @@
 
 > Distributed and Networking Programming
 
-## what this code about 
+## what is this code about 
 
 1. A multi-threaded TCP server that communicates with a client.
 
